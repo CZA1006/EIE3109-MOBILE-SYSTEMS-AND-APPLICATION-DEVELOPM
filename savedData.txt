@@ -1,0 +1,20 @@
+012345678
+Java Programming
+true
+null
+0131857576
+C++ How to Program
+true
+cover/C++ How to Program.jpg
+0131450913
+HTML How to Program?
+true
+cover/HTML How to Program.jpeg
+0132222205
+Java How to Program
+true
+cover/Java_How_to_Program.jpg
+1234
+Harry Potter
+true
+/Users/burton/Downloads/Harry Potter and the Sorcerer's Stone.jpg
